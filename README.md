@@ -71,7 +71,7 @@ Welcome to my **30-day coding marathon!** As an Electronics & Telecommunication 
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,vscode,github,google colab" />
+  <img src="https://skillicons.dev/icons?i=py,vscode,github" />
 </p>
 
 ---
