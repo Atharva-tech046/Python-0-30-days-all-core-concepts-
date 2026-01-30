@@ -76,6 +76,10 @@ Welcome to my **30-day coding marathon!** As an Electronics & Telecommunication 
 
 ---
 
+## 📈 Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Stats" />
+</p>
 
 ---
 
