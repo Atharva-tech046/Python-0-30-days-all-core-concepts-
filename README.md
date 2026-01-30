@@ -1,7 +1,7 @@
 # 🐍 30 Days of Python Programming
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=30%20Days%20of%20Python&fontSize=70&animation=fadeIn">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=30+Days+of+Python;From+Zero+to+Hero;Mastering+Logic+%26+OOPS;Coding+the+Future..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 Welcome to my **30-day coding marathon!** As an Electronics & Telecommunication student transitioning deep into software development, I am using this repository to document my journey from Python fundamentals to advanced Object-Oriented patterns.
 
 > "The best way to predict the future is to code it."
