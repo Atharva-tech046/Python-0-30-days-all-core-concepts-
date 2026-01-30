@@ -71,15 +71,11 @@ Welcome to my **30-day coding marathon!** As an Electronics & Telecommunication 
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,vscode,github,git,postman" />
+  <img src="https://skillicons.dev/icons?i=py,vscode,github,google colab" />
 </p>
 
 ---
 
-## 📈 Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Stats" />
-</p>
 
 ---
 
