@@ -29,8 +29,8 @@ Welcome to my **30-day coding marathon!** As an Electronics & Telecommunication 
 | **06-10** | **Decision Making** | Conditionals, Logic Gates | ✅ |
 | **11-15** | **Data Structures** | Lists, Tuples, Dictionaries, Sets | ✅ |
 | **16-20** | **Iterative Logic** | For/While Loops, List Comprehensions | ✅ |
-| **21-25** | **Modular Code** | Functions & Recursion | 🏗️ |
-| **26-30** | **The Final Boss** | Object-Oriented Programming (OOPS) | ⏳ |
+| **21-25** | **Modular Code** | Functions & Recursion | ✅ |
+| **26-30** | **The Final Boss** | Object-Oriented Programming (OOPS) | ✅ |
 
 ---
 
