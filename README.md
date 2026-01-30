@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-SDLC%20%26%20Logic-orange?style=for-the-badge" />
+<a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 </p>
 
 ---
@@ -71,14 +72,7 @@ Welcome to my **30-day coding marathon!** As an Electronics & Telecommunication 
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,vscode,github" />
-</p>
-
----
-
-## 📈 Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://skillicons.dev/icons?i=py,vscode,github,colab" />
 </p>
 
 ---
